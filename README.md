@@ -1,1 +1,1 @@
-# University-Management-System---Java-Project
+# University-Management-System - Java Project
